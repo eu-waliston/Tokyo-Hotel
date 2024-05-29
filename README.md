@@ -1,2 +1,1 @@
-# hotel_project
-hotel_project
+# Tokyo Hotel
