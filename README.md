@@ -15,9 +15,9 @@ This is a Hotel Management System project aimed at providing a comprehensive sol
 
 ## Technologies Used
 
-- **Programming Languages**: Java, HTML, CSS, JavaScript
-- **Frameworks/Libraries**: Spring Boot, Thymeleaf, Bootstrap
-- **Database**: MySQL
+- **Programming Languages**: HTML, CSS, JavaScript
+- **Frameworks/Libraries**: Node.js, React, Styled Components, React-Router-Dom, Sass
+- **Database**: MongoDB
 - **Version Control**: Git
 
 ## Installation
