@@ -5,16 +5,6 @@ const jwt = require("jsonwebtoken");
 const auth = require("../../midleware/Auth");
 const cors = require("cors");
 
-/**
-    # API BODY USER
-
-    first_name,
-    last_name,
-    email: ,
-    password:
-    token:
-
- */
 
 const userRouter = express.Router();
 
