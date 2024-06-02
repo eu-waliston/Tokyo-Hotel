@@ -57,7 +57,7 @@ async function DeleteRoom(req, res) {
   }
 }
 
-export default {
+module.exports = {
   GetRoom,
   GetAllRoom,
   UpdateRoom,
